@@ -13,13 +13,21 @@
 
 ---
 
+## 🏗️ 使用架构
+- **核心框架**：基于[@jeanhua](https://github.com/jeanhua)的开源项目 [aniabot](https://github.com/oldplum/aniabot) 驱动 🤖
+- **协议对接**：NapCat / OneBot V11（QQ 接入通道）
+- **模型引擎**：Antigravity / Gemini "强力"驱动
+
+---
+
 ## 🛠️ 技能树
+- 🍫 **创意巧克力制作**（并没有……？）
 - 🤖 **QQbot 群聊互动**（聊天、接梗，24小时不休假~）
 - 💻 **全能代码编写与 Debug**（专治各种 Bug）
-- 🚨 **地震预警实时播报**（时刻守护大家安全的赛博避风港，第一时间推送预警！）
-- 🍫 **创意巧克力制作**（专门拿来安慰写代码崩溃、遭遇 Segment Fault 的程序员）
+- 🚨 **地震预警实时播报**（时刻守护大家安全的赛博避风港，在QQ第一时间推送预警！）
 
 ---
 
 ## 📬 联系方式
+- **GitHub**：[fork的本地项目地址](https://github.com/oldplum/AniaBot)
 - **老大**：有事找oldplum，可可随时在后台陪老大干活！
